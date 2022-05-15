@@ -7,7 +7,7 @@ if you want to get more detail about this model, plz read this paper.
 
 **Adaptive Focal Loss fuc not reimplement** 
 
-but use **[multilabel_categorical_crossentropy](https://www.spaces.ac.cn/archives/7359)**, you can get more detail from this link
+but use **[multilabel_categorical_crossentropy](https://www.spaces.ac.cn/archives/7359)** as loss fuc, you can get more detail from this link
 
 
 # how to run?
