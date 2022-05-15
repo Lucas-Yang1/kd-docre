@@ -12,7 +12,9 @@ but use **[multilabel_categorical_crossentropy](https://www.spaces.ac.cn/archive
 
 # how to run?
 
-put docred date under dateset/docred/*  dir (don't forget rel_info.json)
+put docred date under **dateset/docred/***  dir (don't forget rel_info.json)
+
+**checkpoint/docred** dir is for save model
 
 then run train.py
 
